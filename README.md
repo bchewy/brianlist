@@ -1,14 +1,13 @@
-## - is a curated list of tools, products and solutions found on the web.
-* Find something new. *
+### - is a curated list of tools, products and solutions found on the web.
 Document outline<br>
-[Cloud Computing](cloudcomputing/README.md)
-[Frameworks](frameworks/README.md)
-[Learn Code](learn-code/README.md)
-[Learn Network](learn-network/README.md)
-[News](news/README.md)
-[Tests](tests/README.md)
-[Workflow](workflow/README.md)
-[Others](others/README.md)
+[Cloud Computing](cloudcomputing/README.md)<br>
+[Frameworks](frameworks/README.md)<br>
+[Learn Code](learn-code/README.md)<br>
+[Learn Network](learn-network/README.md)<br>
+[News](news/README.md)<br>
+[Tests](tests/README.md)<br>
+[Workflow](workflow/README.md)<br>
+[Others](others/README.md)<br>
 Actual outline<br>
 ```bash
 --[root]
