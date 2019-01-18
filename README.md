@@ -3,7 +3,7 @@ Document outline<br>
 [Cloud Computing](cloudcomputing/README.md)<br>
 [Frameworks](frameworks/README.md)<br>
 [Learn Code](learn-code/README.md)<br>
-[Learn Network](learn-network/README.md)<br>
+[Learn Networking and Cloud](learn-networkncloud/README.md)<br>
 [News](news/README.md)<br>
 [Tests](tests/README.md)<br>
 [Workflow](workflow/README.md)<br>
