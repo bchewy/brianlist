@@ -1,4 +1,4 @@
-### - is a curated list of tools, products and solutions found on the web.
+### brianlist is a curated list of tools, products and solutions found on the web by brian!
 Document outline<br>
 [src](src/README.md)<br>
 [Cloud Computing](cloudcomputing/README.md)<br>
