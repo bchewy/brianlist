@@ -1,4 +1,5 @@
 # News
+
 This section shows all new sites or blogs that frequently share new technologies and interesting things happening all around the globe.
 
 - https://techcrunch.com/ (Startup and tech news)

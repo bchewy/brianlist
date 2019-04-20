@@ -1,4 +1,5 @@
 ### brianlist is a curated list of tools, products and solutions found on the web by brian!
+
 Document outline<br>
 [src](src/README.md)<br>
 [Cloud Computing](cloudcomputing/README.md)<br>
@@ -10,6 +11,7 @@ Document outline<br>
 [Workflow](workflow/README.md)<br>
 [Others](others/README.md)<br>
 Actual outline<br>
+
 ```bash
 --[root]
   --[src]

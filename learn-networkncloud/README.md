@@ -1,7 +1,8 @@
-# Learn networking  and cloud
+# Learn networking and cloud
+
 This section is dedicated to learning more about networking, (ie hacking) and cloud computing.
 
-- https://www.cyberciti.biz/faq/ 
+- https://www.cyberciti.biz/faq/
 - http://www.dennyzhang.com/
 - https://www.devopsguys.com/blog/
 - http://dev2ops.org/
