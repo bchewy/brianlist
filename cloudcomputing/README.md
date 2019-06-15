@@ -9,6 +9,7 @@ All the cloud computing products, solutions and tools
 - https://digitalocean.com (
 - https://ovh.com
 - https://www.vultr.com
+- https://buddy.works
 
 # Cloud Service Providers -- projects/web
 
@@ -20,6 +21,7 @@ All the cloud computing products, solutions and tools
 
 - https://www.terraform.io
 - https://www.ansible.com
+- https://www.ovirt.org
 
 # Containerization
 
