@@ -9,6 +9,7 @@ Anything else that isn't related to a folder here, find something interesting th
 ##### Gem Management
 
 - https://gemfury.com
+- https://rubygems.org
 
 ##### Analytics
 
@@ -21,3 +22,9 @@ Anything else that isn't related to a folder here, find something interesting th
 - https://slack.com
 - https://mattermost.com
 - https://discordapp.com
+- https://www.rabbitmq.com
+
+##### Logging /Analytics
+- https://hadoop.apache.org
+- https://www.elastic.co/what-is/elk-stack
+- https://www.fluentd.org
