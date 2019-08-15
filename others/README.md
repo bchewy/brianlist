@@ -28,3 +28,8 @@ Anything else that isn't related to a folder here, find something interesting th
 - https://hadoop.apache.org
 - https://www.elastic.co/what-is/elk-stack
 - https://www.fluentd.org
+
+
+##### Startup sites (for founders!)
+- https://www.indiehackers.com
+- https://www.producthunt.com
