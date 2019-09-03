@@ -37,3 +37,6 @@ Anything else that isn't related to a folder here, find something interesting th
 
 ##### Job search
 - https://remoteok.io
+
+##### Windows
+- https://chocolatey.org
